@@ -36,8 +36,8 @@ Tested against n8n version 1.0.0 and above.
 
 * [Pushmark Official Website](https://pushmark.app/)
 * [n8n Community Nodes Documentation](https://docs.n8n.io/integrations/community-nodes/)
-* [GitHub Repository](https://github.com/Velqorio/n8n-nodes-pushmark)
+* [GitHub Repository](https://github.com/Pusht-Inc/n8n-nodes-pushmark)
 
 ## License
 
-[MIT](https://github.com/Velqorio/n8n-nodes-pushmark/blob/main/LICENSE.md)
+[MIT](https://github.com/Pusht-Inc/n8n-nodes-pushmark/blob/main/LICENSE.md)
